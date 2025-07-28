@@ -2,8 +2,6 @@
 
 public class MainMenu
 {
-
-
     public static void Show()
     {
         Console.WriteLine("\nMain Menu:");
@@ -11,5 +9,4 @@ public class MainMenu
         Console.WriteLine("2. Show all employees");
         Console.WriteLine("3. Exit");
     }
-
 }
